@@ -33,7 +33,6 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>Github NIF</name>
             <url>https://maven.pkg.github.com/zcxv/nif</url>
         </repository>
     </distributionManagement>
