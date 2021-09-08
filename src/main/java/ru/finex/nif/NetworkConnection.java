@@ -14,5 +14,6 @@ public interface NetworkConnection {
 
     void sendPacket(OutcomePacket sp);
     void close(OutcomePacket sp);
+    void close();
 
 }
